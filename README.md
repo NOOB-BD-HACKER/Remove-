@@ -8,7 +8,7 @@ $ apt upgrade
 
 $ pkg install git
 
-$ git clone https://github.com/NOOB-BD-HACKER/Remove
+$ git clone https://github.com/NOOB-BD-HACKER/Remove-
 
 $ cd Remove-
 
